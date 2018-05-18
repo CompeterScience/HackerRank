@@ -7,7 +7,7 @@
 
 **Mathematics** -- https://www.hackerrank.com/domains/mathematics
 
-**ProjectEuler+** -- https://www.hackerrank.com/contests/projecteuler/
+**ProjectEuler+** -- https://www.hackerrank.com/contests/projecteuler
 
 **Cracking the Coding Interview** -- https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
 
