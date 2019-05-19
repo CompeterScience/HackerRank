@@ -1,0 +1,5 @@
+n = int(input())
+english = set(input().split(' '))
+n = int(input())
+french = input().split(' ')
+print(len(english.difference(french)))
